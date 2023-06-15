@@ -4,6 +4,7 @@
 *.gif binary
 *.ico binary
 *.xcf binary
+*.ttf binary
 
 .git export-ignore
 .gitattributes export-ignore
