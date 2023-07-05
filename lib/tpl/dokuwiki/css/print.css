@@ -4,8 +4,14 @@
  * @todo: improve and finish
  */
 
+@font-face {
+    font-family: Heebo;
+    src: url(fonts/Heebo-VariableFont_wght.ttf);
+}
+
 body {
-    font: normal 87.5%/1.3 Garamond, Baskerville, "Hoefler Text", "Nimbus Roman No9 L", serif;
+    /*font: normal 87.5%/1.3 Garamond, Baskerville, "Hoefler Text", "Nimbus Roman No9 L", serif;*/
+    font: 300 87.5%/1.3 Heebo, sans-serif;
     background-color: #fff;
     color: #000;
 }
